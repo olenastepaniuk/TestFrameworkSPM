@@ -1,7 +1,0 @@
-version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
-options: "a802e67ff0b4bea8616461049c131c28bee9d759d9ed87cdef7973d1615794d5"
-build_start_time: [1743770536, 574574000]
-build_end_time: [1743770537, 220721000]
-inputs:
-  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/TestSDKGoogleMobileAds/TestSDKGoogleMobileAds/TestSDKGoogleMobileAds.swift"
-  : [1743769141, 46839017]

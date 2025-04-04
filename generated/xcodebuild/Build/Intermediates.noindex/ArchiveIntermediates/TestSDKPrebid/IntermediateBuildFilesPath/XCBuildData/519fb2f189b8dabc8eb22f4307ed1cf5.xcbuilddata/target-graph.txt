@@ -1,7 +1,0 @@
-Target dependency graph (3 targets)
-Target 'TestSDKPrebid' in project 'TestSDKPrebid'
-➜ Implicit dependency on target 'Pods-TestSDKPrebid' in project 'Pods' via file 'Pods_TestSDKPrebid.framework' in build phase 'Link Binary'
-➜ Implicit dependency on target 'PrebidMobile' in project 'Pods' via options '-framework PrebidMobile' in build setting 'OTHER_LDFLAGS'
-Target 'Pods-TestSDKPrebid' in project 'Pods'
-➜ Explicit dependency on target 'PrebidMobile' in project 'Pods'
-Target 'PrebidMobile' in project 'Pods' (no dependencies)

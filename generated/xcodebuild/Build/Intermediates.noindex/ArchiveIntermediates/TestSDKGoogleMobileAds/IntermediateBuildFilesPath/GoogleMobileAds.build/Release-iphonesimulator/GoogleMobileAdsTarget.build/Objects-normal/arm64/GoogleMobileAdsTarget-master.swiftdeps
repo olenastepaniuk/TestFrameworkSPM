@@ -1,7 +1,0 @@
-version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
-options: "38b2e5674c43f4c467f5d3a596b51a9ac660ff9a36fc05aa84c24e4de2dbc61d"
-build_start_time: [1743770536, 482750000]
-build_end_time: [1743770536, 711350000]
-inputs:
-  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/SourcePackages/checkouts/swift-package-manager-google-mobile-ads/GoogleMobileAdsTarget/placeholder.swift"
-  : [1743770488, 832889771]

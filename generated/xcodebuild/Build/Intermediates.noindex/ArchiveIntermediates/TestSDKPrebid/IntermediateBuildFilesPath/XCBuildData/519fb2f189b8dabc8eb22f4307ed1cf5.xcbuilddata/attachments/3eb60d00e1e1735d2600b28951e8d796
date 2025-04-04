@@ -1,5 +1,0 @@
-
-module PrebidMobile.Swift {
-  header "PrebidMobile-Swift.h"
-  requires objc
-}

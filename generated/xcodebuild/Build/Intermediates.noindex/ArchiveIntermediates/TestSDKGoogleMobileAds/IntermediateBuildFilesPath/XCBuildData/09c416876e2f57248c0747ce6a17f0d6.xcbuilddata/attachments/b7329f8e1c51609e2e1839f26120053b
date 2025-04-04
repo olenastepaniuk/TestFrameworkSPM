@@ -1,4 +1,0 @@
-module UserMessagingPlatformTarget {
-umbrella "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/SourcePackages/checkouts/swift-package-manager-google-user-messaging-platform/UserMessagingPlatformTarget/include"
-export *
-}
