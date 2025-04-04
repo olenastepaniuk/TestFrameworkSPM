@@ -1,0 +1,326 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "4d6f429e24a84c73a1b92b0b85d60035a6f3937c0a6d7d285d680ed9454dd478"
+build_start_time: [1743770516, 29240000]
+build_end_time: [1743770530, 265499000]
+inputs:
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/AdUnit.swift": [1743768896, 580401973]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/BannerAdUnit.swift"
+  : [1743768896, 586910498]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/BannerBasedAdUnitProtocol.swift"
+  : [1743768896, 586572459]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/ImpressionTracking/BannerViewImpressionTracker.swift"
+  : [1743768896, 581169245]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/ImpressionTracking/InterstitialImpressionTracker.swift"
+  : [1743768896, 580642954]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/ImpressionTracking/PrebidImpressionTracker.swift"
+  : [1743768896, 580788790]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/ImpressionTracking/PrebidImpressionTrackerProtocol.swift"
+  : [1743768896, 580946478]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/InstreamVideoAdUnit.swift"
+  : [1743768896, 586252385]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/InterstitialAdUnit.swift"
+  : [1743768896, 586078146]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/MultiformatAdUnit/BidInfo.swift"
+  : [1743768896, 585537176]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/MultiformatAdUnit/PrebidAdUnit.swift"
+  : [1743768896, 585730585]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/MultiformatAdUnit/PrebidRequest.swift"
+  : [1743768896, 585916633]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/ContextSubType.swift"
+  : [1743768896, 583604671]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/ContextType.swift"
+  : [1743768896, 582975542]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeAd.swift"
+  : [1743768896, 584665195]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeAdConfiguration.swift"
+  : [1743768896, 583290959]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeAdDelegate.swift"
+  : [1743768896, 582117991]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeAdEventDelegate.swift"
+  : [1743768896, 582276843]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeAdMarkup.swift"
+  : [1743768896, 582645654]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeAdMarkupAsset.swift"
+  : [1743768896, 582436693]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeAsset.swift"
+  : [1743768896, 583794794]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeData.swift"
+  : [1743768896, 584820513]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeDataAssetType.swift"
+  : [1743768896, 584268232]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeEventTracker.swift"
+  : [1743768896, 583958803]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeEventTrackerResponse.swift"
+  : [1743768896, 584111084]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeImage.swift"
+  : [1743768896, 581826235]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeImageAssetType.swift"
+  : [1743768896, 581644678]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeLink.swift"
+  : [1743768896, 583119299]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeMarkupRequestObject.swift"
+  : [1743768896, 582841807]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeRequest.swift"
+  : [1743768896, 583461621]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/NativeTitle.swift"
+  : [1743768896, 585220553]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Native/PlacementType.swift"
+  : [1743768896, 584997121]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Parameters/BannerParameters.swift"
+  : [1743768896, 587177635]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Parameters/NativeParameters.swift"
+  : [1743768896, 587327879]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Parameters/Signals.swift"
+  : [1743768896, 588135613]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Parameters/SingleContainerInt.swift"
+  : [1743768896, 587487646]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Parameters/VideoParameters.swift"
+  : [1743768896, 587685920]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/RewardedVideoAdUnit.swift"
+  : [1743768896, 580140200]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/Utils.swift": [1743768896, 588577986]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/VideoAdUnit.swift"
+  : [1743768896, 586743911]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/VideoBasedAdUnitProtocol.swift"
+  : [1743768896, 586388864]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/AdUnits/VideoInterstitialAdUnit.swift"
+  : [1743768896, 588299164]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Addendum/AdViewUtils.swift"
+  : [1743768896, 592694915]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Addendum/IMAUtils.swift"
+  : [1743768896, 592830147]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Addendum/PbWebViewSearchError.swift"
+  : [1743768896, 592453227]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/CacheManagement/CacheExpiryDelegate.swift"
+  : [1743768896, 479569206]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/CacheManagement/CacheExpiryDelegateWrapper.swift"
+  : [1743768896, 477860340]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/CacheManagement/CacheManager.swift"
+  : [1743768896, 479302442]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/AgeUtils.swift"
+  : [1743768896, 579092858]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/ClickbrowserType.swift"
+  : [1743768896, 578662627]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/Gender.swift"
+  : [1743768896, 577155737]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/Prebid.swift"
+  : [1743768896, 577422334]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/PrebidEventDelegate.swift"
+  : [1743768896, 578523735]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/PrebidGAMVersionChecker.swift"
+  : [1743768896, 578950765]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/PrebidInitializationStatus.swift"
+  : [1743768896, 577577485]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/PrebidSDKInitializer.swift"
+  : [1743768896, 578190687]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/PrebidServerStatusRequester.swift"
+  : [1743768896, 578028467]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/SharedId.swift"
+  : [1743768896, 577876850]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/Targeting.swift"
+  : [1743768896, 579765193]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ConfigurationAndTargeting/UserConsentDataManager.swift"
+  : [1743768896, 578367670]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Constants.swift": [1743768896, 477337127]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Dispatcher.swift": [1743768896, 479828484]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ExternalUserId.swift": [1743768896, 592207505]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Global.swift": [1743768896, 479699988]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Host.swift": [1743768896, 594416712]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ImageHelper.swift": [1743768896, 591742926]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/JSONConvertible.swift": [1743768896, 480290984]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/JsonDecodable.swift": [1743768896, 588729769]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Logging/Log.swift": [1743768896, 593477698]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Logging/LogLevel.swift"
+  : [1743768896, 593700174]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Logging/PrebidLogger.swift"
+  : [1743768896, 593926766]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Logging/SDKConsoleLogger.swift"
+  : [1743768896, 593140033]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdFormat.swift"
+  : [1743768896, 539483775]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdPosition.swift"
+  : [1743768896, 490595822]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdTypes/AdView/AdConfiguration.swift"
+  : [1743768896, 552999004]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdTypes/AdView/AdViewButtonDecorator.swift"
+  : [1743768896, 552169605]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdTypes/AdView/HiddenWebViewManager.swift"
+  : [1743768896, 553602974]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdTypes/AdView/Position.swift"
+  : [1743768896, 561622048]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdTypes/AdView/SKOverlayManager.swift"
+  : [1743768896, 553798337]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AdTypes/AdView/VideoControlsConfiguration.swift"
+  : [1743768896, 554204782]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Assets/PrebidImagesRepository.swift"
+  : [1743768896, 575669348]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/AutoRefreshCountConfig.swift"
+  : [1743768896, 576909350]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ExtensionsAndWrappers/String+Extensions.swift"
+  : [1743768896, 484376101]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ExtensionsAndWrappers/UIApplication+Extensions.swift"
+  : [1743768896, 484787037]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ExtensionsAndWrappers/UIWindow+Extensions.swift"
+  : [1743768896, 485450348]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ImpressionTask.swift"
+  : [1743768896, 539166071]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ImpressionTasksExecutor.swift"
+  : [1743768896, 541640960]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Networking/Parameters/ArbitraryORTBHelper.swift"
+  : [1743768896, 492983717]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Networking/Parameters/ArbitraryORTBService.swift"
+  : [1743768896, 492193823]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Networking/PrebidServerConnection.swift"
+  : [1743768896, 496399617]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Networking/PrebidServerConnectionProtocol.swift"
+  : [1743768896, 495856069]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Networking/PrebidServerResponse.swift"
+  : [1743768896, 495986020]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Networking/URLBuilding/PathBuilder.swift"
+  : [1743768896, 491386631]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/PluginRenderer/PluginEventDelegate.swift"
+  : [1743768896, 490104046]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/PluginRenderer/PrebidMobilePluginRegister.swift"
+  : [1743768896, 490253874]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/PluginRenderer/PrebidMobilePluginRenderer+Extensions.swift"
+  : [1743768896, 490386362]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/PluginRenderer/PrebidMobilePluginRenderer.swift"
+  : [1743768896, 489960580]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/AdLoading/AdLoadFlowControllerDelegate.swift"
+  : [1743768896, 526544364]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/AdLoading/BannerAdLoaderDelegate.swift"
+  : [1743768896, 525370107]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BannerEventHandler.swift"
+  : [1743768896, 523999114]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BannerEventInteractionDelegate.swift"
+  : [1743768896, 522105365]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BannerEventLoadingDelegate.swift"
+  : [1743768896, 521010908]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BannerView.swift"
+  : [1743768896, 521374438]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BannerViewDelegate.swift"
+  : [1743768896, 521967638]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BaseInterstitialAdUnit.swift"
+  : [1743768896, 523221322]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BaseInterstitialAdUnitProtocol.swift"
+  : [1743768896, 522234776]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/BaseRewardedAdUnit.swift"
+  : [1743768896, 522365143]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/InterstitialAdUnitDelegate.swift"
+  : [1743768896, 523363664]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/InterstitialEventHandlerProtocol.swift"
+  : [1743768896, 524652778]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/InterstitialEventInteractionDelegate.swift"
+  : [1743768896, 521516116]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/InterstitialEventLoadingDelegate.swift"
+  : [1743768896, 523547758]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/InterstitialRenderingAdUnit.swift"
+  : [1743768896, 524377365]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/PrebidReward.swift"
+  : [1743768896, 523688064]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/RewardedAdUnit.swift"
+  : [1743768896, 522873469]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/RewardedAdUnitDelegate.swift"
+  : [1743768896, 521659873]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/RewardedConfig.swift"
+  : [1743768896, 520827605]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/RewardedEventHandlerProtocol.swift"
+  : [1743768896, 524522453]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/GAM/RewardedEventInteractionDelegate.swift"
+  : [1743768896, 521805127]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationBannerAdUnit.swift"
+  : [1743768896, 519765043]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationBaseInterstitialAdUnit.swift"
+  : [1743768896, 520351797]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationBidInfoWrapper.swift"
+  : [1743768896, 518292917]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationConstants.swift"
+  : [1743768896, 519924394]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationInterstitialAdUnit.swift"
+  : [1743768896, 518799996]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationNativeAdUnit.swift"
+  : [1743768896, 518071148]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationNativeUtils.swift"
+  : [1743768896, 517649442]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationRewardedAdUnit.swift"
+  : [1743768896, 520481166]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/MediationUtils.swift"
+  : [1743768896, 518627213]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/MediationAPI/PrebidMediationDelegate.swift"
+  : [1743768896, 518993737]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/PBMStandaloneSDK/DemandResponseInfo.swift"
+  : [1743768896, 527834559]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/PBMStandaloneSDK/EventHandlers/BannerEventHandlerStandalone.swift"
+  : [1743768896, 527695085]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/PBMStandaloneSDK/EventHandlers/InterstitialEventHandlerStandalone.swift"
+  : [1743768896, 527294171]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/Integrations/PBMStandaloneSDK/EventHandlers/RewardedEventHandlerStandalone.swift"
+  : [1743768896, 527525421]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCacheRenderers/DisplayViewInteractionDelegate.swift"
+  : [1743768896, 498784019]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCacheRenderers/DisplayViewLoadingDelegate.swift"
+  : [1743768896, 498650243]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCacheRenderers/InterstitialController.swift"
+  : [1743768896, 498522412]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCacheRenderers/InterstitialControllerInteractionDelegate.swift"
+  : [1743768896, 498377159]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCacheRenderers/InterstitialControllerLoadingDelegate.swift"
+  : [1743768896, 498112391]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCacheRenderers/PrebidMobileInterstitialControllerProtocol.swift"
+  : [1743768896, 497806539]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCacheRenderers/PrebidRenderer.swift"
+  : [1743768896, 496863448]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCore/AdUnitConfig.swift"
+  : [1743768896, 501835558]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCore/Bid.swift"
+  : [1743768896, 506162321]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCore/BidResponse.swift"
+  : [1743768896, 515216511]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCore/PBMError_Extension.swift"
+  : [1743768896, 502441608]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Prebid/PBMCore/PBMEventDelegateHelper.swift"
+  : [1743768896, 502725919]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/PrebidServerEventTracker.swift"
+  : [1743768896, 576212938]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ServerEvent.swift"
+  : [1743768896, 528255433]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ServerSideConfiguration/PrebidJSLibrary.swift"
+  : [1743768896, 576768753]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/ServerSideConfiguration/PrebidJSLibraryManager.swift"
+  : [1743768896, 576537337]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/SkadnEventTracker.swift"
+  : [1743768896, 528471713]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/SkadnParametersManager.swift"
+  : [1743768896, 489111803]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Utilities/BackgroundAwareTimer.swift"
+  : [1743768896, 531865823]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Utilities/DateFormatService.swift"
+  : [1743768896, 539009589]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Utilities/EventTracker/EventManager.swift"
+  : [1743768896, 536428286]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Utilities/NetworkType.swift"
+  : [1743768896, 530578956]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Utilities/Reachability.swift"
+  : [1743768896, 533366559]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/PrebidMobileRendering/Utilities/UserAgentService.swift"
+  : [1743768896, 533857919]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/ResultCode.swift": [1743768896, 594693830]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/TrackerInfo.swift": [1743768896, 591609066]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/TrackerManager.swift": [1743768896, 480165275]
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/UIViewExtension.swift": [1743768896, 591365298]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/BannerViewReloadTracker.swift"
+  : [1743768896, 589597425]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/CollectionExtension.swift"
+  : [1743768896, 590047742]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/InterstitialObserver.swift"
+  : [1743768896, 589151392]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/NSString+Extensions.swift"
+  : [1743768896, 590670009]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/StorageUtils.swift"
+  : [1743768896, 590440963]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/UIView+Extensions.swift"
+  : [1743768896, 590222271]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/URL+Extensions.swift"
+  : [1743768896, 591233310]
+  ? "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/Pods/PrebidMobile/PrebidMobile/Utils/UserDefaults+Extensions.swift"
+  : [1743768896, 591074375]

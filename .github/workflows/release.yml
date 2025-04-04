@@ -1,0 +1,53 @@
+name: Create GitHub Release (macOS)
+
+on:
+  push:
+    tags:
+      - '[0-9]+.[0-9]+.[0-9]+'
+
+jobs:
+  release:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: List installed Xcode versions
+        run: ls /Applications | grep Xcode
+        
+      - name: Select Xcode 16.2
+        run: sudo xcode-select --switch /Applications/Xcode_16.2.app/Contents/Developer
+
+      - name: Build XCFramework
+        run: |
+          chmod +x scripts/buildTestFramework.sh
+          scripts/buildTestFramework.sh
+        
+      - name: Create XCFramework ZIP
+        run: |
+          cd generated/output/
+          for xcframework in *.xcframework; do
+            zip -r "${xcframework}.zip" "$xcframework"
+          done
+          
+      - name: Extract tag name
+        id: extract_tag
+        run: |
+          echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+          echo "Tag name is $TAG_NAME"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.TAG_NAME }}
+          name: Release ${{ env.TAG_NAME }}
+          body: |
+            🚀 New release!
+            - Version: ${{ env.TAG_NAME }}
+          files: |
+            generated/output/TestSDK.xcframework.zip
+            generated/output/TestSDKPrebid.xcframework.zip
+            generated/output/TestSDKGoogleMobileAds.xcframework.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

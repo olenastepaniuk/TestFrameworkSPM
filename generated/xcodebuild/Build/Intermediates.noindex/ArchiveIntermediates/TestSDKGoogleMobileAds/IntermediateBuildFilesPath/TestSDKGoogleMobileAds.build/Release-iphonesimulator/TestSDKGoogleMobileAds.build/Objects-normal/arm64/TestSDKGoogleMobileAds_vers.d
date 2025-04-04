@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDKGoogleMobileAds/IntermediateBuildFilesPath/TestSDKGoogleMobileAds.build/Release-iphonesimulator/TestSDKGoogleMobileAds.build/DerivedSources/TestSDKGoogleMobileAds_vers.c

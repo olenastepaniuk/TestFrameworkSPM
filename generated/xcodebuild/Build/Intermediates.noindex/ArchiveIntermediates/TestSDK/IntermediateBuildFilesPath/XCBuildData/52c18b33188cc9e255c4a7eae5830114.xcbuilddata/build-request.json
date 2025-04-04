@@ -1,0 +1,84 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a063bfb11cd98db03eefa5ab8cf367abb0f5089dc0c53741c1b513916fa32603"
+    }
+  ],
+  "containerPath" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/TestSDK.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Products",
+      "derivedDataPath" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild",
+      "indexDataStoreFolderPath" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "arm64",
+          "BUILD_LIBRARY_FOR_DISTRIBUTION" : "YES",
+          "defines_module" : "YES",
+          "only_active_arch" : "NO",
+          "SDKROOT" : "iphonesimulator18.4",
+          "SKIP_INSTALL" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/BuildProductsPath/ProductIcon.png",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_SIGNATURE_AGGREGATION" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/IntermediateBuildFilesPath",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SHARED_PRECOMPS_DIR" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/PrecompiledHeaders",
+          "SIGNATURE_METADATA_FOLDER_PATH" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/BuildProductsPath/Signatures",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

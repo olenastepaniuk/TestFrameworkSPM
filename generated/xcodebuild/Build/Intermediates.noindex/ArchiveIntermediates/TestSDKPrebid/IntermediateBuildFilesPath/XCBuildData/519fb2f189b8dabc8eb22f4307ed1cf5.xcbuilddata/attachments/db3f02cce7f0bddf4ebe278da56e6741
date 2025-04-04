@@ -1,0 +1,4 @@
+
+module PrebidMobile.__Swift {
+  exclude header "PrebidMobile-Swift.h"
+}

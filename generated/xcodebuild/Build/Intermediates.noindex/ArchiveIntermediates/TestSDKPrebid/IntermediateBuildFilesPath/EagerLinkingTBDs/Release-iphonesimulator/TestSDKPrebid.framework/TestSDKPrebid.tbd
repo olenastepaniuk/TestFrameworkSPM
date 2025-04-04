@@ -1,0 +1,50 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s13TestSDKPrebidAACABycfCTj",
+            "_$s13TestSDKPrebidAACABycfCTq",
+            "_$s13TestSDKPrebidAACMn",
+            "_$s13TestSDKPrebidAACABycfc",
+            "_$s13TestSDKPrebidAACABycfC",
+            "_$s13TestSDKPrebidAACMo",
+            "_$s13TestSDKPrebidAACfd",
+            "_$s13TestSDKPrebidAACMm",
+            "_$s13TestSDKPrebidAACN",
+            "_TestSDKPrebidVersionNumber",
+            "_$s13TestSDKPrebidAACfD",
+            "_$s13TestSDKPrebidAACMa",
+            "_TestSDKPrebidVersionString",
+            "_$s13TestSDKPrebidAACMu"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/TestSDKPrebid.framework/TestSDKPrebid"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

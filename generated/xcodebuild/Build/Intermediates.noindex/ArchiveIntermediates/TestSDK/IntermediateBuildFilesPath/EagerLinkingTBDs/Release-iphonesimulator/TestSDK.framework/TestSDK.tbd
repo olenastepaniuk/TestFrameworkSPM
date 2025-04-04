@@ -1,0 +1,50 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s7TestSDKAACN",
+            "_$s7TestSDKAACABycfCTj",
+            "_$s7TestSDKAACMo",
+            "_$s7TestSDKAACABycfC",
+            "_$s7TestSDKAACMu",
+            "_TestSDKVersionString",
+            "_$s7TestSDKAACMn",
+            "_$s7TestSDKAACfD",
+            "_$s7TestSDKAACMm",
+            "_$s7TestSDKAACMa",
+            "_$s7TestSDKAACABycfc",
+            "_TestSDKVersionNumber",
+            "_$s7TestSDKAACABycfCTq",
+            "_$s7TestSDKAACfd"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/TestSDK.framework/TestSDK"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

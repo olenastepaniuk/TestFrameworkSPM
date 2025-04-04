@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDK/InstallationBuildProductsLocation/Library/Frameworks/TestSDK.framework/TestSDK'
+relocations:
+  - { offset: 0x33090, size: 0x8, addend: 0x0, symName: _TestSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x6390, symSize: 0x0 }
+  - { offset: 0x330C5, size: 0x8, addend: 0x0, symName: _TestSDKVersionNumber, symObjAddr: 0x28, symBinAddr: 0x63B8, symSize: 0x0 }
+  - { offset: 0x33102, size: 0x8, addend: 0x0, symName: '_$s7TestSDKAACABycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA0 }
+  - { offset: 0x331C6, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x44 }
+  - { offset: 0x331DA, size: 0x8, addend: 0x0, symName: '_$s7TestSDKAACMa', symObjAddr: 0x188, symBinAddr: 0x4188, symSize: 0x20 }
+  - { offset: 0x3321A, size: 0x8, addend: 0x0, symName: '_$s7TestSDKAACABycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA0 }
+  - { offset: 0x33281, size: 0x8, addend: 0x0, symName: '_$s7TestSDKAACABycfc', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x8C }
+  - { offset: 0x332E1, size: 0x8, addend: 0x0, symName: '_$s7TestSDKAACfd', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x8 }
+  - { offset: 0x33306, size: 0x8, addend: 0x0, symName: '_$s7TestSDKAACfD', symObjAddr: 0x178, symBinAddr: 0x4178, symSize: 0x10 }
+...

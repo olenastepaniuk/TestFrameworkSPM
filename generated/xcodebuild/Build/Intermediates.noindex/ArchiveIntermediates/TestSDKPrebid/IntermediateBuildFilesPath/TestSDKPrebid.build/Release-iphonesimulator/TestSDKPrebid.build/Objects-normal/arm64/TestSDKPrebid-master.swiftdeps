@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "456976b6440227715c30d424bd81282d49a1f23dd4e6cfd8fb126f59d3d5a1c6"
+build_start_time: [1743770523, 391129000]
+build_end_time: [1743770531, 536352000]
+inputs:
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/TestSDKPrebid/TestSDKPrebid/TestSDKPrebid.swift": [1743768991, 734948500]

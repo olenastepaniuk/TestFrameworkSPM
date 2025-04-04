@@ -1,0 +1,79 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TestSDKPrebid",
+    "printedName": "TestSDKPrebid",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TestSDKPrebid",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PrebidMobile",
+        "printedName": "PrebidMobile",
+        "declKind": "Import",
+        "moduleName": "TestSDKPrebid"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestSDKPrebid",
+        "printedName": "TestSDKPrebid",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestSDKPrebid",
+                "printedName": "TestSDKPrebid.TestSDKPrebid",
+                "usr": "s:13TestSDKPrebidAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13TestSDKPrebidAACABycfc",
+            "mangledName": "$s13TestSDKPrebidAACABycfc",
+            "moduleName": "TestSDKPrebid",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13TestSDKPrebidAAC",
+        "mangledName": "$s13TestSDKPrebidAAC",
+        "moduleName": "TestSDKPrebid",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

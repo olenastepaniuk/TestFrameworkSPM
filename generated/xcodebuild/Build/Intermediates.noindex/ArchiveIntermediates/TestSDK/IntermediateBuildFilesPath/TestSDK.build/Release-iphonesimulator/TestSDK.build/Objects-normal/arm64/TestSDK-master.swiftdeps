@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "160e695c0982d3932e457f7ef9b94fd29ca52edbfa7f3ae8349146767e7921c6"
+build_start_time: [1743770494, 17178000]
+build_end_time: [1743770495, 810263000]
+inputs:
+  "/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/TestSDK/TestSDK/TestSDK.swift": [1743768385, 205185686]

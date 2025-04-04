@@ -1,0 +1,79 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TestSDKGoogleMobileAds",
+    "printedName": "TestSDKGoogleMobileAds",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TestSDKGoogleMobileAds",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "TestSDKGoogleMobileAds"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestSDKGoogleMobileAds",
+        "printedName": "TestSDKGoogleMobileAds",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestSDKGoogleMobileAds",
+                "printedName": "TestSDKGoogleMobileAds.TestSDKGoogleMobileAds",
+                "usr": "s:22TestSDKGoogleMobileAdsAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:22TestSDKGoogleMobileAdsAACABycfc",
+            "mangledName": "$s22TestSDKGoogleMobileAdsAACABycfc",
+            "moduleName": "TestSDKGoogleMobileAds",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:22TestSDKGoogleMobileAdsAAC",
+        "mangledName": "$s22TestSDKGoogleMobileAdsAAC",
+        "moduleName": "TestSDKGoogleMobileAds",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

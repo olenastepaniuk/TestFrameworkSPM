@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/olenastepaniuk/Developer-without-sync/Postindustria/TestFrameworkSPM/generated/xcodebuild/Build/Intermediates.noindex/ArchiveIntermediates/TestSDKGoogleMobileAds/InstallationBuildProductsLocation/Library/Frameworks/TestSDKGoogleMobileAds.framework/TestSDKGoogleMobileAds'
+relocations:
+  - { offset: 0x60DD0, size: 0x8, addend: 0x0, symName: _TestSDKGoogleMobileAdsVersionString, symObjAddr: 0x0, symBinAddr: 0x19A480, symSize: 0x0 }
+  - { offset: 0x60E05, size: 0x8, addend: 0x0, symName: _TestSDKGoogleMobileAdsVersionNumber, symObjAddr: 0x48, symBinAddr: 0x19A4C8, symSize: 0x0 }
+  - { offset: 0x60E42, size: 0x8, addend: 0x0, symName: '_$s22TestSDKGoogleMobileAdsAACABycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offset: 0x60F0C, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x1EC, symBinAddr: 0x41EC, symSize: 0x44 }
+  - { offset: 0x60F20, size: 0x8, addend: 0x0, symName: '_$s22TestSDKGoogleMobileAdsAACMa', symObjAddr: 0x248, symBinAddr: 0x4248, symSize: 0x20 }
+  - { offset: 0x60F3B, size: 0x8, addend: 0x0, symName: '_$s22TestSDKGoogleMobileAdsAACABycfC', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offset: 0x60FEF, size: 0x8, addend: 0x0, symName: '_$s22TestSDKGoogleMobileAdsAACABycfc', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x1B8 }
+  - { offset: 0x61169, size: 0x8, addend: 0x0, symName: '_$s22TestSDKGoogleMobileAdsAACfd', symObjAddr: 0x230, symBinAddr: 0x4230, symSize: 0x8 }
+  - { offset: 0x6118E, size: 0x8, addend: 0x0, symName: '_$s22TestSDKGoogleMobileAdsAACfD', symObjAddr: 0x238, symBinAddr: 0x4238, symSize: 0x10 }
+...
